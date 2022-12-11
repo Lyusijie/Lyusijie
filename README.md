@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image](https://github.com/Lyusijie/Lyusijie/blob/main/MyCV.jpg)
 <!--
 **Lyusijie/Lyusijie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
